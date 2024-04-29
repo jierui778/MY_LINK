@@ -2,5 +2,7 @@
 .idea/
 .vs/
 *.PrjPcbStructure
-/History/
-/_Previews/
+/Jlink_V9/_Previews/
+/Jlink_V9/History/
+*.html
+*.txt
