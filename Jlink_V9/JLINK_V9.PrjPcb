@@ -56,7 +56,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -67,23 +67,6 @@ GenerateClassCluster=0
 DocumentUniqueId=XYFXXHCM
 
 [Document2]
-DocumentPath=D:\pcb库文件\Cadence OrCAD Capture CIS、AD数据库及Library文件(超全阻容电感)\Cadence OrCAD Capture CIS、AD数据库及Library文件(超全阻容电感)\Library\Library.DbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document3]
 DocumentPath=main.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LFGYJKCL
 
-[Document4]
+[Document3]
 DocumentPath=外壳.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document4]
 DocumentPath=main.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,8 +117,59 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=drill.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document6]
+DocumentPath=..\..\..\..\pcb库文件\Cadence OrCAD Capture CIS、AD数据库及Library文件(超全阻容电感)\Cadence OrCAD Capture CIS、AD数据库及Library文件(超全阻容电感)\Library\Library.DbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document7]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document8]
+DocumentPath=CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -156,75 +190,143 @@ DocumentPath=Project Outputs for JLINK\Design Rule Check - main.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=BOM\JLINK.xls
+DocumentPath=Project Outputs for JLINK_V9\Design Rule Check - main.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for JLINK\JLINK.xlsx
+DocumentPath=BOM\JLINK.xls
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for JLINK\main.DRR
+DocumentPath=Project Outputs for JLINK\JLINK.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for JLINK\main.EXTREP
+DocumentPath=Project Outputs for JLINK\main.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for JLINK\main.G1
+DocumentPath=Project Outputs for JLINK_V9\main.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for JLINK\main.G2
+DocumentPath=Project Outputs for JLINK\main.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for JLINK\main.GBL
+DocumentPath=Project Outputs for JLINK_V9\main.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for JLINK\main.GBO
+DocumentPath=Project Outputs for JLINK\main.G1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for JLINK\main.GBP
+DocumentPath=Project Outputs for JLINK_V9\main.G1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for JLINK\main.GBS
+DocumentPath=Project Outputs for JLINK\main.G2
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for JLINK\main.GM
+DocumentPath=Project Outputs for JLINK_V9\main.G2
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for JLINK\main.GTL
+DocumentPath=Project Outputs for JLINK\main.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for JLINK\main.GTO
+DocumentPath=Project Outputs for JLINK_V9\main.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for JLINK\main.GTP
+DocumentPath=Project Outputs for JLINK\main.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for JLINK\main.GTS
+DocumentPath=Project Outputs for JLINK_V9\main.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for JLINK\main.LDP
+DocumentPath=Project Outputs for JLINK\main.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for JLINK\main.REP
+DocumentPath=Project Outputs for JLINK_V9\main.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
+DocumentPath=Project Outputs for JLINK\main.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for JLINK_V9\main.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for JLINK\main.GM
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for JLINK_V9\main.GM
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for JLINK\main.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for JLINK_V9\main.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for JLINK\main.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for JLINK_V9\main.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for JLINK\main.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for JLINK_V9\main.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for JLINK\main.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for JLINK_V9\main.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for JLINK\main.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for JLINK_V9\main.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for JLINK\main.REP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for JLINK_V9\main.REP
+DItemRevisionGUID=
+
+[GeneratedDocument35]
 DocumentPath=Project Outputs for JLINK\main.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for JLINK_V9\main.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -518,7 +620,7 @@ OutputDefault8=0
 Configuration8_Name1=ForceUpdateSettings
 Configuration8_Item1=False
 Configuration8_Name2=OutputConfigurationParameter1
-Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\75841\Desktop\jlink\jlink_v9\Jlink_v9\Jlink_V9\main.PcbDoc
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=D:\Personal Data\开源项目\MY_LINK\Jlink_V9\main.PcbDoc
 OutputType9=IPC2581
 OutputName9=IPC-2581 Files
 OutputDocumentPath9=
@@ -543,7 +645,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=LFGYJKCL|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName= |UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName= |UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|DocumentPath=C:\Users\75841\Desktop\jlink\jlink_v9\Jlink_v9\Jlink_V9\main.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=LFGYJKCL|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName= |UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName= |UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|DocumentPath=D:\Personal Data\开源项目\MY_LINK\Jlink_V9\main.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
